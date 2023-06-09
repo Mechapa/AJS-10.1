@@ -1,5 +1,3 @@
-import GameSavingLoader from './loader';
-
 import read from './reader';
 import json from './parser';
 
